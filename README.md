@@ -1,2 +1,2 @@
 # hello-world
-Educational demo
+Educational demo for all the world to see.
